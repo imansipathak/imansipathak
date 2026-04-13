@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=AI+Product+Manager+%E2%80%94+from+zero+to+shipped;LLMs+%C2%B7+Agentic+AI+%C2%B7+Enterprise+Automation+%C2%B7+Data+Products;I+prototype+what+I+spec+%E2%80%94+then+ship+it;Regulated+industries+%C2%B7+SaaS+%C2%B7+Developer+tools+%C2%B7+FinTech;Turning+AI+capability+into+real+product+value)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=AI+Product+Manager+%E2%80%94+from+zero+to+shipped;4%2B+yrs+%C2%B7+American+Express+%C2%B7+IIM+Ranchi+MBA;LLMs+%C2%B7+Agentic+AI+%C2%B7+Enterprise+Automation+%C2%B7+Data+Products;I+prototype+what+I+spec+%E2%80%94+then+ship+it;Regulated+industries+%C2%B7+SaaS+%C2%B7+Developer+tools+%C2%B7+FinTech;Turning+AI+capability+into+real+product+value)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,6 +21,8 @@
 ## Who I Am
 
 I'm an **AI Product Manager** who builds things. Not just roadmaps and PRDs — actual working products, with real AI wired in, shipped and running.
+
+**4+ years** in enterprise tech — currently at **American Express**, previously MathCo. **IIM Ranchi MBA** on top of a **B.Tech in Computer Science**: I can walk into an engineering architecture review and then write the business case for the same decision. CommGuard exists to prove that gap is real.
 
 My edge is that I sit at an uncommon intersection: I understand **what AI can do technically**, I understand **what users actually need**, and I can hold both truths in tension long enough to ship something that works in the real world — not just in a demo.
 
@@ -116,6 +118,9 @@ A full-stack enterprise platform I designed and built to demonstrate what seriou
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white)
 ![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=yellow)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=black)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 **Data & Experimentation**
 
@@ -134,6 +139,7 @@ A full-stack enterprise platform I designed and built to demonstrate what seriou
 ![REST APIs](https://img.shields.io/badge/REST_APIs-43_endpoints-10b981?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 
 **Domain Depth**
 

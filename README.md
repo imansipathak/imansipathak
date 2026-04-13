@@ -55,7 +55,16 @@ Enterprise governance platform for managing the full lifecycle of **regulated cu
 </td>
 <td width="40%" align="center">
 
-[![CommGuard](https://github-readme-stats.vercel.app/api/pin/?username=imansipathak&repo=CommGuard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=06b6d4)](https://github.com/imansipathak/CommGuard)
+**[CommGuard →](https://github.com/imansipathak/CommGuard)**
+
+![Next.js](https://img.shields.io/badge/Next.js_15-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+
+![Rules](https://img.shields.io/badge/171_Compliance_Rules-06b6d4?style=flat-square)
+![Regulations](https://img.shields.io/badge/12_Regulations-8b5cf6?style=flat-square)
+![Endpoints](https://img.shields.io/badge/43_API_Endpoints-10b981?style=flat-square)
 
 </td>
 </tr>
@@ -135,23 +144,6 @@ That question changes everything about how you design the product.
 - You don't just need accuracy. You need **explainability** at the citation level — which section of which regulation, exactly quoted.
 
 This is the PM muscle I've built. Not just shipping AI features. Shipping AI features that survive contact with the real world.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=imansipathak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imansipathak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06b6d4&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imansipathak&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=06b6d4&ring=8b5cf6&fire=f59e0b&currStreakLabel=06b6d4)](https://git.io/streak-stats)
-
-</div>
 
 ---
 
